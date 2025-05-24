@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact name="LoginServletProject:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/LoginServletProject_jar</output-path>
+    <root id="root">
+      <element id="archive" name="LoginServletProject.jar">
+        <element id="module-output" name="LoginServletProject" />
+      </element>
+      <element id="dir-copy" path="$PROJECT_DIR$/src/main/webapp" />
+    </root>
+  </artifact>
+</component>
